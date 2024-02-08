@@ -23,7 +23,7 @@ My Interestes are in in the intersection of Network, Systems and Machine learnin
 Selected Publications
 ------
 1. [Panakos: Chasing the Tails for Multidimensional Data Streams](https://doi.org/10.14778/3583140.3583147)
-    Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, and Zaoxing Liu.  
-    Proceedings of the VLDB 23  
-    https://doi.org/10.14778/3583140.3583147  
+    Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, and Zaoxing Liu.  <br />
+    Proceedings of the VLDB 23  <br />
+    https://doi.org/10.14778/3583140.3583147  <br />
 
