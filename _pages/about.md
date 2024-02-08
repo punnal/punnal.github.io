@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Punnal Ismail Khan"
+excerpt: "Punnal Ismail Khan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About me
+------
 I’m a Ph.D. student at the University of California, Santa Barbara, working under the supervision of Prof. [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) in the Systems and Networking Lab.
 
 Currently, I am working on a system that generates live network traffic under different network conditions. The existing approaches include replaying pcaps or generating traffic using traffic generators that replicate some traffic features such as distribution. However they fail to capture complex application logic. To capture the application logic we use orchestrable code avaliable on online platforms like github. This type of network traffic data will help ML models, solving network problems, more generalizable.
