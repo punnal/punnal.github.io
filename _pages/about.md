@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Punnal Ismail Khan"
-excerpt: "Punnal Ismail Khan"
+excerpt: "Hi, I am Punnal"
 author_profile: true
 redirect_from: 
   - /about/
