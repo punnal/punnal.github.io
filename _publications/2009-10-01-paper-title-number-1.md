@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Panakos: Chasing the Tails for Multidimensional Data Streams"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/Panakos
+excerpt: 'Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, and Zaoxing Liu'
+date: 2023-02-01
+venue: 'VLDB 23'
+paperurl: 'https://zaoxing.github.io/papers/2023/VLDB23_Panakos.pdf'
+citation: 'Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, and Zaoxing Liu. 2023. Panakos: Chasing the Tails for Multidimensional Data Streams. Proc. VLDB Endow. 16, 6 (February 2023), 1291–1304. https://doi.org/10.14778/3583140.3583147'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbad, Arpit Gupta, Zaoxing Liu
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://zaoxing.github.io/papers/2023/VLDB23_Panakos.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Fuheng Zhao, Punnal Ismail Khan, Divyakant Agrawal, Amr El Abbadi, Arpit Gupta, and Zaoxing Liu. 2023. Panakos: Chasing the Tails for Multidimensional Data Streams. Proc. VLDB Endow. 16, 6 (February 2023), 1291–1304. https://doi.org/10.14778/3583140.3583147
