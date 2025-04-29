@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I’m a Ph.D. student at the University of California, Santa Barbara, working under the supervision of Prof. [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) in the Systems and Networking Lab.
+I’m a grad student at the University of California, Santa Barbara, working under the supervision of Prof. [Arpit Gupta](https://sites.cs.ucsb.edu/~arpitgupta/) in the Systems and Networking Lab.
 
 Currently, I am working on developing and improving a system called netMosaic. It is a data-collection platform that leverages existing public code repositories and programmable network infrastructures to simplify data collection for various learning problems under a variety of different network conditions. My focus is on the development of new closed-loop workflows that can (i) learn to constrain the typically vast search space of possible network conditions to only those conditions whose alterations would have the maximal impact on the quality of the collected network data, and (ii) reason about which conditions do or don’t improve model generalizability and produce the desired deployment performance (and why). We also plan to leverage this pipeline for learning problems such as flow completion time, throughput prediction, and version fingerprinting (i.e., determining the version of identified services, such as MongoDB).
 
