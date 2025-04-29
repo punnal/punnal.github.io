@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Punnal Ismail Khan"
 title_separator          : "-"
 name                     : &name "Punnal Ismail Khan"
-description              : &description "PhD student at University of California, Santa Barbara"
+description              : &description "Grad student at University of California, Santa Barbara"
 url                      : https://punnal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "punnal/punnal.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Punnal Ismail Khan"
   avatar           : "profile.JPG"
-  bio              : "PhD student at University of California, Santa Barbara"
+  bio              : "Grad student at University of California, Santa Barbara"
   location         : "Santa Barbara, California"
   employer         :
   pubmed           : 
